@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jerome-18
-- 👀 I’m interested in data analysis.
-- 🌱 I’m currently learning data analytics. sql,powerbi and python.
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently learning data analysis tools like sql,powerbi and python.
 - 📫 You can reach me on linkedIn.
 
 <!---
